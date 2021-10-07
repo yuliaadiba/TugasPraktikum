@@ -1,0 +1,14 @@
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\latihan\C#\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\latihan\C#\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

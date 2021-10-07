@@ -1,0 +1,14 @@
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.exe
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.deps.json
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.json
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.dev.json
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.dll
+C:\latihan\C#\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.pdb
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csproj.AssemblyReference.cache
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfoInputs.cache
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfo.cs
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csproj.CoreCompileInputs.cache
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.dll
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.pdb
+C:\latihan\C#\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.genruntimeconfig.cache

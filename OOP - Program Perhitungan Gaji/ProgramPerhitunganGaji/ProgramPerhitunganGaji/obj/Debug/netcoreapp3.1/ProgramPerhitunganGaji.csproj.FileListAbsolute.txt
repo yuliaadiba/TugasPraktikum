@@ -1,0 +1,14 @@
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.exe
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.deps.json
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.runtimeconfig.json
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.runtimeconfig.dev.json
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.dll
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\bin\Debug\netcoreapp3.1\ProgramPerhitunganGaji.pdb
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.csproj.AssemblyReference.cache
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.GeneratedMSBuildEditorConfig.editorconfig
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.AssemblyInfoInputs.cache
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.AssemblyInfo.cs
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.csproj.CoreCompileInputs.cache
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.dll
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.pdb
+C:\latihan\C#\ProgramPerhitunganGaji\ProgramPerhitunganGaji\obj\Debug\netcoreapp3.1\ProgramPerhitunganGaji.genruntimeconfig.cache

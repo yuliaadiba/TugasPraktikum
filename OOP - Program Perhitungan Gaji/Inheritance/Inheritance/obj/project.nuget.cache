@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6SXADn9dyOfx+v/T5+S2z6W1KGdb4sL7dsVsy9wZtPjd2vuTCwC2Dkiy86yiAIxF+cKfEE2hc0LYq8hJeDvQDg==",
+  "success": true,
+  "projectFilePath": "C:\\latihan\\C#\\Inheritance\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yulia Adiba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yulia Adiba\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
